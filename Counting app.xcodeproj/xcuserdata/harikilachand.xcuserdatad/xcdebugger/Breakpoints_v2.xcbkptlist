@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "94CEB818-58D9-4048-8003-050912FD8826"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEB02F35-3B0C-4076-834A-C337AC98D3AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Counting app/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EEB02F35-3B0C-4076-834A-C337AC98D3AF - ae3f061696aa121d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Counting_app.ContentView.body.getter : some"
+                  moduleName = "Counting app.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harikilachand/Library/Mobile%20Documents/com~apple~CloudDocs/Coding%20projects/Counting%20app/Counting%20app/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+               <Location
+                  uuid = "EEB02F35-3B0C-4076-834A-C337AC98D3AF - bad6fb1d0f5fb80a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.font(Swift.Optional&lt;SwiftUI.Font&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in Counting_app.ContentView.body.getter : some"
+                  moduleName = "Counting app.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harikilachand/Library/Mobile%20Documents/com~apple~CloudDocs/Coding%20projects/Counting%20app/Counting%20app/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2961AB80-FACE-4250-847D-BE2024EF2AF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Counting app/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
